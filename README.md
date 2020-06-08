@@ -2,6 +2,7 @@
 The 'Hello World' of machine learning, this is a project to classify hand drawn digits from 0 to 9. The method I used here was to create a Convolutional Neural Network (CNN) written in Torch, although SVMS can work just as well. 
 
 Final results are > 99% accuracy
+
 -The code can be checked in 'mnist.ipynb' 
 -The trained model is saved as 'cnn.th'
 
